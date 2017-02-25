@@ -1,0 +1,19 @@
+{
+  "name": "cssmodules-classnames",
+  "version": "1.0.0",
+  "description": "Combine classnames with cssmodules",
+  "main": "index.js",
+  "repository": "https://github.com/JoshyRobot/cssmodules-classnames.git",
+  "author": "JoshyRobot",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tape": "^4.6.3"
+  }
+}
